@@ -134,7 +134,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## 🆕 Newly Added Apps!
 
-*Last **88 apps** that were recently added to the list!*
+*Last **89 apps** that were recently added to the list!*
 - `WDM` [Netease Filmly](https://bmh.163.com/) `📆`
 - `WDM` [Netease MuMuPlayer](https://mumu.163.com/) `📆` (only the Windows on ARM version is WinUI)
 - `WDA` [Perfect Memory](https://www.perfectmemory.ai/)
@@ -147,6 +147,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 - `WDM` [Ai Super Resolution](https://apps.microsoft.com/detail/9nthdwb338st) `💰`
 - `WDA` [AI Subtitle Translator](https://apps.microsoft.com/detail/9nwxjspzsnl7) `💰`
 - `WD` [AI Video Upscaler](https://apps.microsoft.com/detail/9pdqmvzz2c1h)
+- `WDM` [Ambie](https://github.com/jenius-apps/ambie) <sup>`FOSS`</sup>
 - `WD` [Audibly — Audiobook Player](https://apps.microsoft.com/detail/9p6r1m1gg9jr)
 - `WDM` [Automated Menu Management System](https://github.com/abdbbdii/Automated-Menu-Ordering-System) 
 - `WD` [Be My Eyes](https://apps.microsoft.com/detail/9msw46ltdwgf)
@@ -597,6 +598,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ### 📈 Productivity
 
+- `WDM` [Ambie](https://github.com/jenius-apps/ambie) <sup>`FOSS`</sup>
 - `WDM` [Barcode Fonts Trial](https://apps.microsoft.com/detail/9n2n5j6q9t51) <sup>`FOSS`</sup>
 - `WDM` [Calendar Flyout](https://apps.microsoft.com/store/detail/calendar-flyout/9P2B3PLJXH3V) `💰`
 - `WDM` [Clipboard Canvas](https://apps.microsoft.com/store/detail/clipboard-canvas/9NN2NZG8RLTB)
